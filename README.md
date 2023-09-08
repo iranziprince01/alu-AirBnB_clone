@@ -14,9 +14,9 @@ Creating a Python package Developing a command interpreter using the cmd module 
    git clone https://github.com/iranziprince01/alu-AirBnB_clone.git
    ```
 2. Then navigate to the project folder:
-```
-cd alu-Airbnb_clone
-```
+   ```
+   cd alu-Airbnb_clone
+   ```
 
 ## Contributors
 1. [Prince Iranzi](https://github.com/iranziprince01/) <<p.iranzi@alustuden.com>>
