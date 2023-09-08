@@ -1,4 +1,21 @@
 # AirBnb_clone
-## AUTHORS
+Welcome to the AirBnB clone project! This project focuses on building a command interpreter to manage AirBnB objects, serving as the foundation for a full-stack web development.
+
+Table of Contents, Background Context, Concepts, Learning Objectives, Requirements, Installation, Usage, Examples, Contributors, Before diving into the details, please read the AirBnB concept page to understand the project's context and objectives.
+
+Concepts In this project, working on the following concepts:
+
+Creating a Python package Developing a command interpreter using the cmd module Implementing unit testing in a larger project Serializing and deserializing objects Reading and writing JSON files Managing datetime Understanding and using UUIDs Utilizing *args and **kwargs Handling named arguments in functions.
+
+## Installation To get started with the AirBnB clone console, follow these steps:
+
+1. Clone this repository to your local machine:
+   ```
+   git clone https://github.com/iranziprince01/alu-AirBnB_clone.git
+   ```
+2. Then navigate to the project folder:
+```cd airbnb-clone```
+
+## Contributors
 1. [Prince Iranzi](https://github.com/iranziprince01/) <<p.iranzi@alustuden.com>>
 2. [Esther Umunyana](https://github.com/eumunyana)   <<e.umunyana@alustudent.com>>
