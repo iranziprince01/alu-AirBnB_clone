@@ -15,7 +15,7 @@ Creating a Python package Developing a command interpreter using the cmd module 
    ```
 2. Then navigate to the project folder:
 ```
-cd airbnb-clone
+cd alu-Airbnb_clone
 ```
 
 ## Contributors
