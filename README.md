@@ -1,4 +1,6 @@
 # AirBnb_clone - The Console
+![image](https://github.com/iranziprince01/alu-AirBnB_clone/assets/116654088/c92f1d91-ed2a-4e55-a7dc-85a80fce8d18)
+
 
 ## Introduction
 Welcome to the AirBnB clone project! This project focuses on building a command interpreter to manage AirBnB objects, serving as the foundation for a full-stack web development.
